@@ -16,7 +16,7 @@ CQotd quotes("wisdom.txt");
 
 void main()
 {
-	CTcpListener server("127.0.0.1", 54010, Listener_MessageReceived);
+	CTcpListener server("149.153.106.163", 5050, Listener_MessageReceived);
 
 	if (server.Init())
 	{
