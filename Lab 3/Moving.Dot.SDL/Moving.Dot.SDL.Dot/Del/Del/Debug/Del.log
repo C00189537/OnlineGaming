@@ -1,0 +1,3 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\foxbl\Desktop\Online Gaming\Lab 3\Moving.Dot.SDL\Moving.Dot.SDL.Dot\Del\Debug\Del.exe : fatal error LNK1120: 1 unresolved externals
